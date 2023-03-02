@@ -4,7 +4,7 @@ This is the code repository for the Atari 2600 game Cave Run.
 <img><img src="https://github.com/AtariusMaximus/CaveRun/blob/main/CaveRun_screenshot1.jpg">
 <img><img src="https://github.com/AtariusMaximus/CaveRun/blob/main/CaveRun_screenshot2.jpg">
 
-The object of Cave Run is to run through thirty horizontally placed screens (or "caves") and grab the treasures on each level. Some backtracking and creative jumping is required to reach some of them. Once you have collected all the treasures the final screen unlocks. If you successfully navigate the last screen you win the game. You start the game with three lives.
+The object of Cave Run is to run through thirty horizontally placed screens (or "caves") and grab the treasures on each level. Some backtracking and creative jumping is required to reach some of them. Once you have collected all the treasures the final screen unlocks. If you successfully navigate the last screen you win the game. You start the game with three lives.  My notes from 2012 indicate that this release does not run correctly on real Atari hardware, but works fine in emulation on Stella.
 
 Here's the an outline of the basics:
 
